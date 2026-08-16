@@ -1,0 +1,41 @@
+lote_id,nombre_finca,superficie_ha,variedad,edad_monte_anos,rinde_historico_t_ha
+LOT-001,Finca 3,436.6,Limon Lisboa,23,37.0
+LOT-002,Finca 5,418.1,Genova,17,34.4
+LOT-003,Finca 3,166.0,Limon Lisboa,16,37.6
+LOT-004,Finca 3,391.8,Genova,6,41.1
+LOT-005,Finca 5,139.7,Limon Lisboa,12,34.1
+LOT-006,Finca 1,135.4,Limon Lisboa,10,34.1
+LOT-007,Finca 2,231.7,Genova,17,41.3
+LOT-008,Finca 5,187.1,Genova,20,38.1
+LOT-009,Finca 5,50.2,Genova,7,33.1
+LOT-010,Finca 5,478.9,Limon Lisboa,18,37.2
+LOT-011,Finca 3,308.0,Limon Lisboa,23,33.1
+LOT-012,Finca 2,121.7,Limon Lisboa,13,33.1
+LOT-013,Finca 5,236.5,Genova,6,36.0
+LOT-014,Finca 4,478.2,Genova,6,27.3
+LOT-015,Finca 4,202.6,Limon Lisboa,7,28.1
+LOT-016,Finca 3,33.3,Limon Eureka,14,32.8
+LOT-017,Finca 1,386.0,Genova,7,30.9
+LOT-018,Finca 5,424.9,Limon Eureka,14,36.3
+LOT-019,Finca 3,439.7,Limon Lisboa,17,31.4
+LOT-020,Finca 1,170.0,Genova,17,29.4
+LOT-021,Finca 3,153.7,Limon Eureka,22,40.9
+LOT-022,Finca 1,110.0,Limon Lisboa,16,34.1
+LOT-023,Finca 1,327.9,Limon Eureka,6,35.3
+LOT-024,Finca 1,35.9,Limon Lisboa,6,29.3
+LOT-025,Finca 1,179.3,Limon Eureka,15,32.8
+LOT-026,Finca 4,356.4,Limon Eureka,11,35.4
+LOT-027,Finca 3,108.0,Limon Eureka,16,30.4
+LOT-028,Finca 3,175.4,Limon Eureka,5,36.5
+LOT-029,Finca 1,317.4,Genova,8,32.6
+LOT-030,Finca 1,398.1,Limon Eureka,20,33.8
+LOT-031,Finca 1,72.4,Limon Eureka,8,32.6
+LOT-032,Finca 2,434.7,Limon Eureka,10,42.4
+LOT-033,Finca 2,119.3,Genova,8,34.9
+LOT-034,Finca 1,208.7,Limon Eureka,12,30.8
+LOT-035,Finca 5,382.8,Limon Eureka,6,38.3
+LOT-036,Finca 2,238.3,Genova,23,30.1
+LOT-037,Finca 1,319.9,Limon Eureka,6,35.8
+LOT-038,Finca 1,466.1,Limon Lisboa,23,27.2
+LOT-039,Finca 3,449.2,Genova,7,29.7
+LOT-040,Finca 3,442.6,Genova,12,35.8
