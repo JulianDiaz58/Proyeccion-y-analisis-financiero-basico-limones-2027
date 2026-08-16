@@ -19,7 +19,7 @@ Riesgo de Heladas: Detección de temperaturas < 5 gradosC durante junio, julio y
 3. Penalizaciones por Impacto Climático (df_rindes)
 Factor Sequía: Penalización del 15% al 25% sobre el rinde si la lluvia anual es < 900mm o < 700mm.
 Factor Helada: Penalización del 15% al 30% según la cantidad de semanas con eventos registrados.
-4. Precios de Mercado e Insumos (df_mercado)Simulación Temporal: Inclusión de una tendencia de incremento de costos ($+15\%$ en el tiempo) y volatilidad estocástica.
+4. Precios de Mercado e Insumos (df_mercado)Simulación Temporal: Inclusión de una tendencia de incremento de costos (+15% en el tiempo) y volatilidad estocástica.
 Precios Simulados: Insumos (Urea, Fungicida, Gasoil) y Limón (Industria y Exportación en USD/Tn).
 5. Registros Operativos y Costos Lote-Semana (df_operativo)
 Demanda de Urea: Aplicación en meses de fertilización (Septiembre–Enero) proporcional al rinde histórico del lote.
